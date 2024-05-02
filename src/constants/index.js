@@ -260,7 +260,7 @@ export const benefits = [
     id: "0",
     title: "Portfolio Management",
     text: "With Flutter Funds, you gain access to professional portfolio management typically reserved for high-net-worth individuals.",
-    backgroundUrl: "./src/assets/benefits/card-1.png",
+    backgroundUrl: benefitCard1,
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
